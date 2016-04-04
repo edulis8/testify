@@ -1,4 +1,6 @@
 # Testify
 Unit test sprint 
 
-This was a solo testing sprint I did as a student at Hack Reactor.
+Testing sprint covering unit testing, end-to-end testing, and integration testing.
+
+I worked on this project when I was a student at [Hack Reactor Remote](http://www.hackreactor.com/remote-beta/).
